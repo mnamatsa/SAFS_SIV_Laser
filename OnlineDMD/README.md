@@ -7,4 +7,4 @@ The SDK can be requested here: https://phantomhighspeed.my.site.com/PhantomCommu
 # Results
 Shear Layer DMD Mode f = 74kHz Hz | Boundary Layer DMD Mode f= 315Khz |
 |---|---|
-| ![Shear Layer DMD Mode f = 74kHz Hz](https://raw.githubusercontent.com/mnamatsa/SAFS_SIV_Laser/main/OnlineDMD/ODMD%20f%3D74349.8%20Hz.gif?raw=true) | ![Boundary Layer DMD Mode f= 315Khz](https://raw.githubusercontent.com/mnamatsa/SAFS_SIV_Laser/main/OnlineDMD/ODMD%20f%3D315097.8%20Hz.gif?raw=true) |
+| ![Shear Layer DMD Mode f = 74kHz](https://raw.githubusercontent.com/mnamatsa/SAFS_SIV_Laser/main/OnlineDMD/ODMD%20f%3D74349.8%20Hz.gif?raw=true) | ![Boundary Layer DMD Mode f = 315kHz](https://raw.githubusercontent.com/mnamatsa/SAFS_SIV_Laser/main/OnlineDMD/ODMD%20f%3D315097.8%20Hz.gif?raw=true) |
