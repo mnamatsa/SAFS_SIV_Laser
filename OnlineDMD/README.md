@@ -5,6 +5,6 @@ It was adapted to work with double pulse system and can resolve Dynamic Modes up
 # Phanto SDK
 The SDK can be requested here: https://phantomhighspeed.my.site.com/PhantomCommunity/s/article/Phantom-SDK-MATLAB-LABVIEW-Access
 # Results
-Shear Layer DMD Mode f = 74kHz Hz | Boundary Layer DMD Mode f= 315Khz |
+Shear Layer DMD Mode f = 74kHz | Boundary Layer DMD Mode f = 315kHz |
 |---|---|
 | ![Shear Layer DMD Mode f = 74kHz](https://raw.githubusercontent.com/mnamatsa/SAFS_SIV_Laser/main/OnlineDMD/ODMD%20f%3D74349.8%20Hz.gif?raw=true) | ![Boundary Layer DMD Mode f = 315kHz](https://raw.githubusercontent.com/mnamatsa/SAFS_SIV_Laser/main/OnlineDMD/ODMD%20f%3D315097.8%20Hz.gif?raw=true) |
